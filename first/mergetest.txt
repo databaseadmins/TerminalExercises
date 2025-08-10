@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 adding a file in main
-=======
 Added text from the bookstore-functionality branch
->>>>>>> bookstore-functionality
